@@ -7,4 +7,4 @@ Sysadmin by day. Building toward offensive security.
 
 ## Tools
 
-Nothing public yet. Small utilities will land here as I build them.
+- [PassGuardian](https://github.com/JayasuryaNair01/PassGuardian) — CLI password checker. Local wordlist plus a Have I Been Pwned range check. The password itself is not sent.
