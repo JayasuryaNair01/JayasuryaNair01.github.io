@@ -1,6 +1,6 @@
 ---
 title: "Access Control & IDOR Cheat Sheet"
-date: 2026-10-10 12:00:00 +0530
+
 categories: [Security Notes, Web Vulnerabilities]
 tags: [access-control, idor]
 ---
