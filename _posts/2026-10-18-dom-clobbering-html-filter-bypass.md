@@ -1,5 +1,5 @@
 ---
-title: "DOM Clobbering to Bypass an HTML Filter: How I Approached It"
+title: "DOM Clobbering to Bypass an HTML Filter (Mystery Lab): How I Approached It"
 date: 2026-10-18 12:55:00 +0530
 categories: [Web Security, XSS]
 tags: [dom-clobbering, xss, mystery-lab, burp, portswigger]
