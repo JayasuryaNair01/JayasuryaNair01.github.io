@@ -29,7 +29,6 @@ tell: it suggests a front-end component (a proxy or gateway) is making the
 access decision *before* the request reaches the back-end, and the back-end
 itself may not be checking at all.
 
-![Blocked /admin request]
 
 ## Testing the theory
 
