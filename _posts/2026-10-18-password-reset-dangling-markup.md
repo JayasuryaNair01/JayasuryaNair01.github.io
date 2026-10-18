@@ -1,5 +1,5 @@
 ---
-title: "Password Reset Poisoning via Dangling Markup (Mystery Lab) : How I Approached It"
+title: "Password Reset Poisoning via Dangling Markup (Mystery Lab): How I Approached It"
 date: 2026-10-18 13:00:00 +0530
 categories: [Web Security, Host Header]
 tags: [host-header, password-reset, dangling-markup, burp, portswigger]
