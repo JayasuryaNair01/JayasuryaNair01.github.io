@@ -1,6 +1,6 @@
 ---
 title: "OAuth Authentication Bypass: How I Approached It"
-date: 2026-10-18 14:00:00 +0530
+date: 2026-10-18 12:30:00 +0530
 categories: [Web Security, Authentication]
 tags: [oauth, authentication, burp, portswigger]
 ---
