@@ -1,6 +1,6 @@
 ---
 title: "HTTP Request Smuggling: How I Approached It"
-date: 2026-10-15 12:40:00 +0530
+date: 2026-10-18 12:20:00 +0530
 categories: [Web Security, Request Smuggling]
 tags: [request-smuggling, http, burp, portswigger]
 ---
