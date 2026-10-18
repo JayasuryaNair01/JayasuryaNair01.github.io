@@ -28,17 +28,11 @@ twitter:
   username: # add your handle if you have one
 
 social:
-  # Change to your full name.
-  name: Jayasurya Nair
-  email: # add your email here if desired
-  fediverse_handle:
-  links:
-    - https://github.com/JayasuryaNair01
-
-  social:
   name: Jayasurya Nair
   email: connect.jayasuryanair@gmail.com
-
+  links:
+    - https://github.com/JayasuryaNair01
+    - https://www.linkedin.com/in/jayasurya-nair-6899a2440/
 # Site Verification Settings
 webmaster_verifications:
   google:
