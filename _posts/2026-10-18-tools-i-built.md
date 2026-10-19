@@ -8,6 +8,10 @@ pin: true
 
 Small practice tools I built while learning. Not production software — just things I wrote to understand how they work. Full page: [Tools](/tools/).
 
+### [zip-parser](https://github.com/JayasuryaNair01/zip-parser) (in progress)
+
+From-scratch ZIP parser in Rust, no ZIP libraries. Currently extracts stored files; Deflate and zip slip protection are next.
+
 ### [ytm-play](https://github.com/JayasuryaNair01/ytm-play)
 
 Terminal YouTube Music client in Rust. Written to learn async networking and nested JSON parsing. Playback through `mpv`.
